@@ -45,5 +45,6 @@ Anthony Williams是BSI C++小组的成员，拥有10多年C++应用经验。
 
 - github 翻译地址：https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action
 - gitbook 在线阅读：http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/
+- gitbook 在线阅读（对应本仓库）：https://xingdl2007.gitbooks.io/ccia/
 - 书中源码：https://github.com/bsmr-c-cpp/Cpp-Concurrency-in-Action
 - 学习C++11/14: http://www.bogotobogo.com/cplusplus/C11
